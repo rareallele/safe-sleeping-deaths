@@ -90,10 +90,9 @@ ui <- (fluidPage(
       plotlyOutput("figure",
                    width = "auto"),
       # Links
-      downloadLink("downloadData", "Get the data"),
-      helpText(a("Get the code", href = "", target = "_blank")),
+      helpText(a("Get the data", href="https://github.com/rareallele/safe-sleeping-deaths", target = "_blank")),
+      helpText(a("Get the code", href = "https://github.com/rareallele/safe-sleeping-deaths", target = "_blank")),
       helpText(a("About SEIFA", href = "https://www.abs.gov.au/websitedbs/censushome.nsf/home/seifa", target = "_blank")),
-      #textOutput("text")
     )
     
   )
