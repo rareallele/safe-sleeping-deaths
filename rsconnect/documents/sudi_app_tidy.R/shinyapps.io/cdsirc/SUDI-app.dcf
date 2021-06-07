@@ -1,0 +1,12 @@
+name: SUDI-app
+title: SUDI-app
+username:
+account: cdsirc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3191326
+bundleId: 3835928
+url: https://cdsirc.shinyapps.io/SUDI-app/
+when: 1604892321.61948
+asMultiple: FALSE
+asStatic: FALSE
